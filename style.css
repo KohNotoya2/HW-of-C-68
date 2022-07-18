@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(#cb1414 0%, #5409bd 100%);
+    text-align: center;
+}
+
+.achievements {
+    font-size: 25px;
+}
